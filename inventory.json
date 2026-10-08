@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-09-26T12:17:58",
+  "generated_at": "2026-10-08T14:41:03",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/amg-gt53/2024-mercedes-benz-amg-gt53-id39034577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:58:37",
       "odometer_km": 40000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "C43 AMG 4MATIC Sedan2025 Mercedes-Benz",
@@ -25,7 +27,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c43-amg/2025-mercedes-benz-c43-amg-id39049385?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:58:52",
       "odometer_km": 11400,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "C43 AMG 4MATIC Sedan2025 Mercedes-Benz",
@@ -36,7 +40,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c43-amg/2025-mercedes-benz-c43-amg-id39056063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:59:08",
       "odometer_km": 9950,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
@@ -47,7 +53,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id38264004?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:59:24",
       "odometer_km": 13000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "E53e AMG 4MATIC+ Sedan2025 Mercedes-Benz",
@@ -58,7 +66,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e53e/2025-mercedes-benz-e53e-id39131939?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:59:40",
       "odometer_km": 12105,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
@@ -69,7 +79,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:59:56",
       "odometer_km": 15500,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
@@ -80,7 +92,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id38551446?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:00:12",
       "odometer_km": 22500,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLE350 4MATIC SUV2026 Mercedes-Benz",
@@ -91,7 +105,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id38992108?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:00:29",
       "odometer_km": 10950,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLE53 4MATIC+ Coupe2025 Mercedes-Benz",
@@ -102,7 +118,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle53/2025-mercedes-benz-gle53-id39102214?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:00:44",
       "odometer_km": 13489,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLE580 4MATIC SUV2026 Mercedes-Benz",
@@ -113,7 +131,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle580/2026-mercedes-benz-gle580-id39207302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:00:58",
       "odometer_km": 7800,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLS450 4MATIC SUV2024 Mercedes-Benz",
@@ -124,7 +144,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id38699123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:01:11",
       "odometer_km": 25000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLS450 4MATIC SUV2026 Mercedes-Benz",
@@ -135,7 +157,9 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:01:28",
       "odometer_km": 19050,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
@@ -145,7 +169,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39034629?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39034629?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:09:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
@@ -155,7 +181,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39034632?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39034632?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:10:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
@@ -165,7 +193,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39042778?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39042778?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:10:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -175,7 +205,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39042785?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39042785?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:10:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -185,7 +217,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39042789?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39042789?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:10:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -195,7 +229,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39061219?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39061219?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:11:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -205,7 +241,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102320?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102320?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:11:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -215,7 +253,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102321?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102321?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:11:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -225,7 +265,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102322?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102322?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:11:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
@@ -235,7 +277,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102325?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102325?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:12:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -245,7 +289,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102326?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102326?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:12:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
@@ -255,7 +301,9 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102327?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39102327?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:12:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }
