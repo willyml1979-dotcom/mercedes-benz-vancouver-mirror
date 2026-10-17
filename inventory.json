@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-10-15T21:11:51",
-  "vehicle_count": 2540,
+  "generated_at": "2026-10-17T16:53:13",
+  "vehicle_count": 2493,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12,21 +12,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/bb3b3956c0e0.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:13:11",
+      "last_verified": "2026-10-17T16:49:18",
       "odometer_km": 9464,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ADX A-Spec2025 Acura",
-      "vin": "3HDSA2H53SM101923",
-      "stock": "H216007",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/fa5440efebea.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:13:26",
-      "odometer_km": 22700,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -38,8 +25,21 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/7cead67d1c3c.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id39254462",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id39254462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:13:41",
+      "last_verified": "2026-10-17T16:49:34",
       "odometer_km": 33213,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ILX | Rebuilt Title | Premium Features | Exceptional V2016 Acura",
+      "vin": "19UDE2F7XGA801804",
+      "stock": "A12C015",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e6a90261aa6f.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/ilx/2016-acura-ilx-id39360561",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/ilx/2016-acura-ilx-id39360561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:32:29",
+      "odometer_km": 118783,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -77,7 +77,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/918893f3d0e9.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:13:58",
+      "last_verified": "2026-10-17T16:49:50",
       "odometer_km": 41796,
       "condition": "used",
       "city": "Vancouver",
@@ -90,7 +90,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b33235c2d93b.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:14:12",
+      "last_verified": "2026-10-17T16:50:04",
       "odometer_km": 22763,
       "condition": "used",
       "city": "Vancouver",
@@ -103,7 +103,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c48d05081891.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:14:26",
+      "last_verified": "2026-10-17T16:50:21",
       "odometer_km": 10515,
       "condition": "used",
       "city": "Vancouver",
@@ -116,7 +116,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/5acc7fe00d05.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2025-acura-integra-id39237438",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2025-acura-integra-id39237438?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:14:42",
+      "last_verified": "2026-10-17T16:50:35",
       "odometer_km": 5038,
       "condition": "used",
       "city": "Vancouver",
@@ -129,7 +129,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dec56e13a16b.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:14:57",
+      "last_verified": "2026-10-17T16:50:50",
       "odometer_km": 5432,
       "condition": "used",
       "city": "Vancouver",
@@ -142,20 +142,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e882cbf91440.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:15:17",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Integra Type S Manual2026 Acura",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d75354b41ce4.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:15:33",
-      "odometer_km": 11562,
+      "last_verified": "2026-10-17T16:51:05",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -182,6 +169,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:53:21",
       "odometer_km": 103339,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec2019 Acura",
+      "vin": "5J8YD4H08KL803533",
+      "stock": "A262014",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/18a042a63d8f.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39368069",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39368069?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:32:45",
+      "odometer_km": 102400,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -226,14 +226,14 @@
       "province": "BC"
     },
     {
-      "name": "MDX A-Spec SH-AWD2025 Acura",
-      "vin": "5J8YE1H07SL800926",
-      "stock": "A260190",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/55ebdb761f34.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:15:47",
-      "odometer_km": 25703,
+      "name": "MDX Platinum Elite SH-AWD2024 Acura",
+      "vin": "5J8YE1H83RL801975",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ed944b48d4b1.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:01",
+      "odometer_km": 44290,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -245,7 +245,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/42d65ebcc88b.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:16:04",
+      "last_verified": "2026-10-17T16:51:19",
       "odometer_km": 40623,
       "condition": "used",
       "city": "Vancouver",
@@ -258,7 +258,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/64f43a86e188.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:16:19",
+      "last_verified": "2026-10-17T16:51:35",
       "odometer_km": 14581,
       "condition": "used",
       "city": "Vancouver",
@@ -271,7 +271,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/1c4516388455.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:16:33",
+      "last_verified": "2026-10-17T16:51:50",
       "odometer_km": 16780,
       "condition": "used",
       "city": "Vancouver",
@@ -304,6 +304,19 @@
       "province": "BC"
     },
     {
+      "name": "RDX Platinum Elite SH-AWD2019 Acura",
+      "vin": "5J8TC2H73KL801915",
+      "stock": "A260188",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/fdae094ead9a.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2019-acura-rdx-id39367986",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2019-acura-rdx-id39367986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:17",
+      "odometer_km": 65952,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "RDX SH-AWD Elite at2021 Acura",
       "vin": "5J8TC2H79ML805678",
       "stock": "A262097",
@@ -312,6 +325,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:55:13",
       "odometer_km": 101965,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RDX SH-AWD Platinum Elite2021 Acura",
+      "vin": "5J8TC2H98ML801350",
+      "stock": "A113012",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/74a2eb6bf5c8.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39375246",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39375246?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:32",
+      "odometer_km": 77500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -336,21 +362,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3f7d62678e8e.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:16:48",
+      "last_verified": "2026-10-17T16:52:06",
       "odometer_km": 43699,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RDX A-Spec AWD2024 Acura",
-      "vin": "5J8TC2H61RL801722",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3ecdfd425370.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:17:03",
-      "odometer_km": 50877,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -362,7 +375,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/70ee580c61db.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:17:20",
+      "last_verified": "2026-10-17T16:52:23",
       "odometer_km": 25091,
       "condition": "used",
       "city": "Vancouver",
@@ -395,27 +408,27 @@
       "province": "BC"
     },
     {
+      "name": "RDX A-Spec SH-AWD2024 Acura",
+      "vin": "5J8TC2H61RL801736",
+      "stock": "A213010",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ccfd1b00a82d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39367927",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39367927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:46",
+      "odometer_km": 59635,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2025 Acura",
       "vin": "5J8TC2H69SL804597",
       "stock": "A260189",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/46899eff15e1.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:17:34",
+      "last_verified": "2026-10-17T16:52:40",
       "odometer_km": 22697,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RDX Platinum Elite A-Spec AWD2025 Acura",
-      "vin": "5J8TC2H86SL803473",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f3d9595851e8.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:17:49",
-      "odometer_km": 9286,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -429,19 +442,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:56:16",
       "odometer_km": 91920,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "TLX Type S2021 Acura",
-      "vin": "19UUB7F00MA800035",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b59e38950468.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39314824",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39314824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:56:32",
-      "odometer_km": 116358,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -514,14 +514,14 @@
       "province": "BC"
     },
     {
-      "name": "A7 Sportback 55 3.0T Technik qtro Ultra 7sp S Tronic2021 Audi",
-      "vin": "WAUV2AF25MN060778",
-      "stock": "2665613",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d099f6eb1810.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/a7-sportback/2021-audi-a7-sportback-id39140524",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/a7-sportback/2021-audi-a7-sportback-id39140524?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:58:02",
-      "odometer_km": 46247,
+      "name": "e-tron GT quattro2022 Audi",
+      "vin": "WAUCJBFW7N7004074",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/cf22acfb85a2.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/e-tron-gt/2022-audi-e-tron-gt-id39375356",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/e-tron-gt/2022-audi-e-tron-gt-id39375356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:00",
+      "odometer_km": 79824,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -533,7 +533,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f094dd9c0f8c.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39116716",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39116716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:18:05",
+      "last_verified": "2026-10-17T16:52:54",
       "odometer_km": 32112,
       "condition": "used",
       "city": "Vancouver",
@@ -654,19 +654,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/q5/2020-audi-q5-id39302964?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:59:37",
       "odometer_km": 84792,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Q5 45 2.0T Progressiv quattro 7sp S Tronic2022 Audi",
-      "vin": "WA1EAAFY4N2018996",
-      "stock": "2652274",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dbf13f102529.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/q5/2022-audi-q5-id39237545",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/q5/2022-audi-q5-id39237545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:59:52",
-      "odometer_km": 62000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -962,6 +949,19 @@
       "province": "BC"
     },
     {
+      "name": "SQ6 e-tron quattro Technik2025 Audi",
+      "vin": "WA135BGF3SA029701",
+      "stock": "27B4667",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3ab3432c363d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/sq6-e-tron/2025-audi-sq6-e-tron-id39368091",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/audi/sq6-e-tron/2025-audi-sq6-e-tron-id39368091?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:16",
+      "odometer_km": 42986,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "stock": "JL11708",
@@ -1009,19 +1009,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/330i/2026-bmw-330i-id39069335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:21:34",
       "odometer_km": 14901,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "5 Series 530e xDrive iPerformance2018 BMW",
-      "vin": "WBAJB1C57JG623312",
-      "stock": "G27013A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/41fc697e1b9a.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/5-series/2018-bmw-5-series-id39222359",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/5-series/2018-bmw-5-series-id39222359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:04:09",
-      "odometer_km": 93243,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1079,14 +1066,27 @@
       "province": "BC"
     },
     {
-      "name": "iX xDrive50 w/Premium Enhanced Package2024 BMW",
-      "vin": "WB523CF08RCN74233",
-      "stock": "A215011",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/960a560c3204.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:22:36",
-      "odometer_km": 41875,
+      "name": "i4 M50 xDrive2024 BMW",
+      "vin": "WBY33AW05RFR68265",
+      "stock": "MB12F01",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/176a5c0b6444.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/i4/2024-bmw-i4-id39375357",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/i4/2024-bmw-i4-id39375357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:31",
+      "odometer_km": 39950,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "iX M602023 BMW",
+      "vin": "WB533CF07PCM58622",
+      "stock": "G12C000",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/aedccc66f283.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/ix/2023-bmw-ix-id39368220",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/ix/2023-bmw-ix-id39368220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:47",
+      "odometer_km": 74673,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1100,6 +1100,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/m2/2020-bmw-m2-id39164043?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:04:41",
       "odometer_km": 39228,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "M2 Competition2021 BMW",
+      "vin": "WBS2U7C08M7H74412",
+      "stock": "H22C003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/69b6dbdf6e9e.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/m2/2021-bmw-m2-id39367838",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/m2/2021-bmw-m2-id39367838?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:04",
+      "odometer_km": 12133,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1328,32 +1341,6 @@
       "province": "BC"
     },
     {
-      "name": "X3 xDrive30i2020 BMW",
-      "vin": "5UXTY5C05L9B12163",
-      "stock": "6T8049A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0849e6855617.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x3/2020-bmw-x3-id39108571",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x3/2020-bmw-x3-id39108571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:07:03",
-      "odometer_km": 106042,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X3 xDrive30i2024 BMW",
-      "vin": "5UX53DP00R9W84100",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0622847d2d4f.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:24:57",
-      "odometer_km": 30100,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "X3 xDrive30i2024 BMW",
       "vin": "5UX53DP00R9U68392",
       "stock": "A316058",
@@ -1427,6 +1414,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39267232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:08:21",
       "odometer_km": 62589,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "X5 xDrive45e2022 BMW",
+      "vin": "5UXTA6C09N9L27751",
+      "stock": "A12F001",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/24da79a023e8.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x5/2022-bmw-x5-id39375249",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/bmw/x5/2022-bmw-x5-id39375249?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:20",
+      "odometer_km": 53390,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1761,6 +1761,19 @@
       "province": "BC"
     },
     {
+      "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22024 Chevrolet",
+      "vin": "3GCUDHEL9RG337296",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/9e050ac21b18.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/chevrolet/silverado-1500/2024-chevrolet-silverado-1500-id39360563",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/chevrolet/silverado-1500/2024-chevrolet-silverado-1500-id39360563?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:34",
+      "odometer_km": 57719,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22025 Chevrolet",
       "vin": "3GCUKHE85SG192605",
       "stock": "A12A015",
@@ -1899,6 +1912,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/dodge/challenger/2016-dodge-challenger-id38974237?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:13:12",
       "odometer_km": 126560,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Charger GT AWD2018 Dodge",
+      "vin": "2C3CDXJG6JH225756",
+      "stock": "N226102",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/7fb7bca0da44.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:51",
+      "odometer_km": 92314,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2161,19 +2187,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39177842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:16:02",
       "odometer_km": 44240,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "stock": "A116008",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/74804f74af97.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:16:18",
-      "odometer_km": 126880,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2689,19 +2702,6 @@
     },
     {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
-      "vin": "3GTUUEE87RG253780",
-      "stock": "N12B000",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ec245b97751d.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:35:43",
-      "odometer_km": 18248,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
       "vin": "3GTUUEE81RG331664",
       "stock": "MB62C00",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/856a17721134.html",
@@ -2753,19 +2753,6 @@
       "province": "BC"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Standard Box Denali2024 GMC",
-      "vin": "1GT49WE76RF386823",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/787fcf24fd85.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:36:50",
-      "odometer_km": 47624,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sierra 3500HD 4WD Crew Cab Long Box AT42024 GMC",
       "vin": "1GT49VEY1RF273378",
       "stock": "H32C000",
@@ -2805,6 +2792,21 @@
       "province": "BC"
     },
     {
+      "name": "Accord Sedan EX-L V6 at2013 Honda",
+      "vin": "1HGCR2F8XDA802407",
+      "stock": "H127211",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/be9a8594b38b.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/accord/2013-honda-accord-id39374891",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/accord/2013-honda-accord-id39374891?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:05",
+      "price": 19499.0,
+      "price_currency": "CAD",
+      "odometer_km": 88118,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Accord EX CVT2023 Honda",
       "vin": "1HGCY1F39PA800721",
       "stock": "H126225",
@@ -2826,19 +2828,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/accord/2024-honda-accord-id39055798?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:23:30",
       "odometer_km": 118622,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
-      "vin": "2HGFE4F85SH005131",
-      "stock": "H126271",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a7f4af771bb5.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:37:20",
-      "odometer_km": 12366,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2878,19 +2867,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39309040?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:38:09",
       "odometer_km": 17135,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Hybrid Sport eCVT Sedan2026 Honda",
-      "vin": "2HGFE4F82TH001720",
-      "stock": "A252001",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d680c0c80b3c.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:38:26",
-      "odometer_km": 18431,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2953,10 +2929,10 @@
       "name": "Civic Sedan Touring CVT2019 Honda",
       "vin": "2HGFC1F9XKH106002",
       "stock": "H313039",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/6c98a1dae577.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:24:44",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3b6785b43b91.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39367944",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39367944?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:20",
       "odometer_km": 53333,
       "condition": "used",
       "city": "Vancouver",
@@ -3260,19 +3236,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid EX-L AWD2025 Honda",
-      "vin": "2HKRS6H7XSH207295",
-      "stock": "H261255",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ca3b15582b7e.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:41:57",
-      "odometer_km": 22774,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Hybrid Touring AWD2025 Honda",
       "vin": "2HKRS6H96SH232499",
       "stock": "A262078",
@@ -3281,6 +3244,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:42:14",
       "odometer_km": 17621,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H79SH210043",
+      "stock": "H126280",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e67091ef0bde.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354130",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:36",
+      "odometer_km": 29827,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3325,6 +3301,21 @@
       "province": "BC"
     },
     {
+      "name": "CR-V EX 4AT2003 Honda",
+      "vin": "JHLRD78853C800975",
+      "stock": "H126200",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e74c77410b5d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39374892",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39374892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:50",
+      "price": 8750.0,
+      "price_currency": "CAD",
+      "odometer_km": 214000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CR-V EX-L AWD2014 Honda",
       "vin": "2HKRM4H7XEH131130",
       "stock": "H27084A",
@@ -3335,6 +3326,20 @@
       "price": 18995.0,
       "price_currency": "CAD",
       "odometer_km": 86802,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V EX AWD2014 Honda",
+      "vin": "2HKRM4H34EH105250",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/442accedee20.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v/2014-honda-cr-v-id39360562",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v/2014-honda-cr-v-id39360562?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:05",
+      "price": 15995.0,
+      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3418,19 +3423,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Sport AWD2025 Honda",
-      "vin": "2HKRS4H56SH105429",
-      "stock": "H126102",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/8c8556cfdbed.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:43:04",
-      "odometer_km": 18395,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CRV EX-L 4WD at2011 Honda",
       "vin": "5J6RE4H75BL808731",
       "stock": "N226203",
@@ -3441,6 +3433,20 @@
       "price": 8998.0,
       "price_currency": "CAD",
       "odometer_km": 212346,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Fit Hatchback  DX-A at2009 Honda",
+      "stock": "MB12C00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b75d5c514406.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/fit/2009-honda-fit-id39375359",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/fit/2009-honda-fit-id39375359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:19",
+      "price": 10995.0,
+      "price_currency": "CAD",
+      "odometer_km": 97300,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3524,19 +3530,6 @@
       "province": "BC"
     },
     {
-      "name": "HR-V LX AWD CVT2025 Honda",
-      "vin": "3CZRZ2H33SM110199",
-      "stock": "H261097",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dc08ef4a9ae8.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:43:34",
-      "odometer_km": 51228,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "HR-V LX 2WD CVT2025 Honda",
       "vin": "3CZRZ1H31SM101379",
       "stock": "H126269",
@@ -3545,19 +3538,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39108764?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:43:50",
       "odometer_km": 53320,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H5XSM105146",
-      "stock": "H27078A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c2a68eeece89.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:44:05",
-      "odometer_km": 10837,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3577,26 +3557,26 @@
     },
     {
       "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H56SM108142",
-      "stock": "H126119",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/6fb79f6ff264.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:44:37",
-      "odometer_km": 12300,
+      "vin": "3CZRZ2H54SM110536",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3a28a3c821f6.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39367948",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39367948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:34",
+      "odometer_km": 17586,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
     },
     {
-      "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H54SM110536",
-      "stock": "H313039",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/caeaf8bba2a5.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:31:27",
-      "odometer_km": 17586,
+      "name": "HR-V Sport AWD CVT2026 Honda",
+      "vin": "3CZRZ2H54TM100977",
+      "stock": "H127147",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/41dd0e53c967.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2026-honda-hr-v-id39368274",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/hr-v/2026-honda-hr-v-id39368274?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:49",
+      "odometer_km": 26855,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3675,19 +3655,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39069086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:45:40",
       "odometer_km": 21929,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Odyssey Sport-L Auto2025 Honda",
-      "vin": "5FNRL6H73SB501133",
-      "stock": "H217004",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dc353baed131.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:45:57",
-      "odometer_km": 17548,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3810,6 +3777,19 @@
       "province": "BC"
     },
     {
+      "name": "Pilot Touring 8P2021 Honda",
+      "vin": "5FNYF6H79MB505631",
+      "stock": "H126251",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/71e9688fe657.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/pilot/2021-honda-pilot-id39368272",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/pilot/2021-honda-pilot-id39368272?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:05",
+      "odometer_km": 104820,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Pilot Touring 8P2022 Honda",
       "vin": "5FNYF6H98NB507681",
       "stock": "MB61216",
@@ -3857,19 +3837,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/pilot/2023-honda-pilot-id39223239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:34:14",
       "odometer_km": 88500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pilot TrailSport AWD2024 Honda",
-      "vin": "5FNYG1H60RB502194",
-      "stock": "H213005",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/85b93b9e0069.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:47:15",
-      "odometer_km": 33514,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3960,6 +3927,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/ridgeline/2023-honda-ridgeline-id39281720?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:35:16",
       "odometer_km": 21771,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2024 Honda",
+      "vin": "5FPYK3F83RB500963",
+      "stock": "2651322",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e3f28b8347b1.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/ridgeline/2024-honda-ridgeline-id39368011",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/honda/ridgeline/2024-honda-ridgeline-id39368011?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:21",
+      "odometer_km": 31000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4616,6 +4596,19 @@
       "province": "BC"
     },
     {
+      "name": "Grand Cherokee 4X4 Limited2017 Jeep",
+      "vin": "1C4RJFBGXHC905308",
+      "stock": "N22F000",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/1ca11cfde233.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/jeep/grand-cherokee-4x4/2017-jeep-grand-cherokee-4x4-id39374517",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/jeep/grand-cherokee-4x4/2017-jeep-grand-cherokee-4x4-id39374517?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:35",
+      "odometer_km": 90644,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Grand Cherokee 4X4 Laredo2018 Jeep",
       "vin": "1C4RJFAG7JC364936",
       "stock": "26097A",
@@ -4668,6 +4661,19 @@
       "province": "BC"
     },
     {
+      "name": "Wrangler Unlimited Rubicon2021 Jeep",
+      "vin": "1C4JJXFM9MW835165",
+      "stock": "A12C018",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/00741810d4c4.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/jeep/wrangler-unlimited/2021-jeep-wrangler-unlimited-id39367988",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/jeep/wrangler-unlimited/2021-jeep-wrangler-unlimited-id39367988?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:53",
+      "odometer_km": 44621,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Wrangler Rubicon 2D Utility 4WD2012 Jeep",
       "vin": "1C4GJWBG9CL180042",
       "stock": "A316058",
@@ -4704,19 +4710,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/jeep/wrangler/2026-jeep-wrangler-id38900819?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:53:41",
       "odometer_km": 26832,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "EV6 Land w/GT-Line Pkg 1 AWD2024 Kia",
-      "vin": "KNDC4DLC8R5622778",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d75b10b3625a.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/kia/ev6/2024-kia-ev6-id39207290",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/kia/ev6/2024-kia-ev6-id39207290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:53:58",
-      "odometer_km": 60325,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4949,6 +4942,19 @@
       "province": "BC"
     },
     {
+      "name": "Defender 90 P400 75th Anniversary (2)2023 Land Rover",
+      "vin": "SALEW6EU7P2172410",
+      "stock": "JL12B07",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3983a0d70cce.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38425961",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38425961?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:10",
+      "odometer_km": 64905,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Defender 130 P400 First Edition (2)2023 Land Rover",
       "vin": "SALEVFEU4P2170889",
       "stock": "MB51600",
@@ -5009,19 +5015,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39274864?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:48:11",
       "odometer_km": 34330,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Defender 110 P300 S (2)2023 Land Rover",
-      "vin": "SALEJ7EX0P2243624",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/2131983c59c0.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39297735",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39297735?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:48:26",
-      "odometer_km": 28990,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5675,19 +5668,6 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover Sport P400 Dynamic SE2025 Land Rover",
-      "vin": "SAL1L9FU5SA449299",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/64e0a706a8f5.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:03:25",
-      "odometer_km": 12000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover Sport P400 Dynamic HSE2025 Land Rover",
       "vin": "SAL1M9FUXSA438280",
       "stock": "L26646A",
@@ -5898,19 +5878,6 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover V8 Autobiography Supercharged LWB2018 Land Rover",
-      "vin": "SALGV5RE0JA507268",
-      "stock": "MB72D00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/27d922f7f8db.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/range-rover/2018-land-rover-range-rover-id38462868",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/land-rover/range-rover/2018-land-rover-range-rover-id38462868?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:06:39",
-      "odometer_km": 100580,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover V8 Supercharged SWB2019 Land Rover",
       "vin": "SALGS2RE0KA558617",
       "stock": "L26468B",
@@ -6028,6 +5995,19 @@
       "province": "BC"
     },
     {
+      "name": "GX 4602019 Lexus",
+      "vin": "JTJJM7FX5K5229685",
+      "stock": "G12A004",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/2a13d3617fb4.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/gx/2019-lexus-gx-id39368219",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/gx/2019-lexus-gx-id39368219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:24",
+      "odometer_km": 68415,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GX 550 4WD w/Overtrail Package2024 Lexus",
       "vin": "JTJTBCDX1R5002708",
       "stock": "A22C002",
@@ -6036,19 +6016,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/gx/2024-lexus-gx-id38746824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:07:29",
       "odometer_km": 37646,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GX 5502025 Lexus",
-      "vin": "JTJTBCDX3S5047123",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/69734fa10175.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/gx/2025-lexus-gx-id38974239",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/gx/2025-lexus-gx-id38974239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:07:44",
-      "odometer_km": 16981,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6075,6 +6042,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/ls/2018-lexus-ls-id39246576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:56:26",
       "odometer_km": 79002,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "LX 6002024 Lexus",
+      "vin": "JTJAB7CX6R4039842",
+      "stock": "MB62A00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/062710cc598d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:38",
+      "odometer_km": 39736,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6114,18 +6094,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/nx/2025-lexus-nx-id39177933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:08:42",
       "odometer_km": 26670,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "NX 350h Premium AWD2026 Lexus",
-      "vin": "2T2GKCEZ6TC070397",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e4bddf4cfeb7.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:08:58",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6176,19 +6144,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/rx/2018-lexus-rx-id39246540?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:56:56",
       "odometer_km": 23101,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RX 350L 8A2019 Lexus",
-      "vin": "JTJDZKCA9K2017942",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ac2607348784.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/rx/2019-lexus-rx-id38508805",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/rx/2019-lexus-rx-id38508805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:57:12",
-      "odometer_km": 89892,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6259,19 +6214,6 @@
       "province": "BC"
     },
     {
-      "name": "RXh RX 450h AWD2022 Lexus",
-      "vin": "2T2HGMDA7NC075781",
-      "stock": "H32F000",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0c7ccee1ab35.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/rxh/2022-lexus-rxh-id39228866",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/rxh/2022-lexus-rxh-id39228866?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T15:58:16",
-      "odometer_km": 84244,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "TX 350 AWD w/Ultra Luxury Package2024 Lexus",
       "vin": "5TDAAAB65RS018934",
       "stock": "A215011",
@@ -6293,6 +6235,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/uxh/2022-lexus-uxh-id39254522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T15:58:33",
       "odometer_km": 55152,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "UXh 250h AWD2024 Lexus",
+      "vin": "JTHL9JBH3R2079157",
+      "stock": "2665063",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/685cf77d806c.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/uxh/2024-lexus-uxh-id39368063",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/lexus/uxh/2024-lexus-uxh-id39368063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:55",
+      "odometer_km": 43123,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6614,19 +6569,6 @@
       "province": "BC"
     },
     {
-      "name": "AMG GT63 S 4MATIC+ Coupe2020 Mercedes-Benz",
-      "vin": "WDD7X8KB0LA014458",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ab78b45a9123.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/amg-gt63/2020-mercedes-benz-amg-gt63-id39109206",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/amg-gt63/2020-mercedes-benz-amg-gt63-id39109206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:13:40",
-      "odometer_km": 54850,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "B-Class B 2502018 Mercedes-Benz",
       "vin": "WDDMH4GB7JJ476370",
       "stock": "G26122A",
@@ -6640,14 +6582,14 @@
       "province": "BC"
     },
     {
-      "name": "C-Class C 3002022 Mercedes-Benz",
-      "vin": "W1KAF4HB4NR056791",
-      "stock": "G26068A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/00a50cc03001.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c-class/2022-mercedes-benz-c-class-id39289723",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c-class/2022-mercedes-benz-c-class-id39289723?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:14:08",
-      "odometer_km": 38793,
+      "name": "B250 4MATIC Sports Tourer2016 Mercedes-Benz",
+      "vin": "WDDMH4GB7GJ409454",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a28c3a75aa41.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/b250/2016-mercedes-benz-b250-id39375259",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/b250/2016-mercedes-benz-b250-id39375259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:09",
+      "odometer_km": 57819,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6700,19 +6642,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id38922009?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:15:10",
       "odometer_km": 110546,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "C300 4MATIC Sedan2018 Mercedes-Benz",
-      "vin": "55SWF4KB1JU265140",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/8cc6d5d4272a.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id39052645",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id39052645?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:15:25",
-      "odometer_km": 93500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6822,19 +6751,6 @@
       "province": "BC"
     },
     {
-      "name": "C300 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KAF4HB1NR034666",
-      "stock": "2652440",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/449194c63630.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c300/2022-mercedes-benz-c300-id39049407",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c300/2022-mercedes-benz-c300-id39049407?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:17:30",
-      "odometer_km": 30944,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "C43 AMG 4MATIC Sedan2018 Mercedes-Benz",
       "vin": "55SWF6EBXJU272952",
       "stock": "2766027",
@@ -6926,19 +6842,6 @@
       "province": "BC"
     },
     {
-      "name": "C450 AMG 4MATIC Sedan2016 Mercedes-Benz",
-      "vin": "55SWF6EB2GU156783",
-      "stock": "2652583",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/bb9bc79bd8f9.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T20:10:43",
-      "odometer_km": 224058,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "C63 S AMG Coupe Premium Package2020 Mercedes-Benz",
       "vin": "W1KWJ8HB5LG003201",
       "stock": "S12C001",
@@ -6965,14 +6868,16 @@
       "province": "BC"
     },
     {
-      "name": "CLA250 4MATIC Coupe - local, no accidents, great price2025 Mercedes-Benz",
-      "vin": "W1K5J4HB8SN536190",
-      "stock": "JL26B00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b348a43288ef.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id37670672",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id37670672?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:19:24",
-      "odometer_km": 36771,
+      "name": "CLA250 4MATIC Coupe2015 Mercedes-Benz",
+      "vin": "WDDSJ4GBXFN219327",
+      "stock": "2665540",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a31c985ce24b.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2015-mercedes-benz-cla250-id39375266",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2015-mercedes-benz-cla250-id39375266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:23",
+      "price": 15995.0,
+      "price_currency": "CAD",
+      "odometer_km": 119723,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7044,19 +6949,6 @@
     },
     {
       "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB9TN573993",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c0b8fa9441fe.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:20:39",
-      "odometer_km": 37410,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB9TN595802",
       "stock": "MB11816",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ebf8650bab8d.html",
@@ -7090,19 +6982,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cla45-amg/2023-mercedes-benz-cla45-amg-id39325583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:21:28",
       "odometer_km": 35556,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CLE300 4MATIC Coupe2024 Mercedes-Benz",
-      "vin": "W1KMJ4HB4RF012261",
-      "stock": "2652599",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/66c8ba4fc45a.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:21:43",
-      "odometer_km": 25000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7177,14 +7056,14 @@
       "province": "BC"
     },
     {
-      "name": "E-Class E53 AMG 4MATIC Wagon w/Premium Package2020 Mercedes-Benz",
-      "vin": "WDDZH6BB4LA720147",
-      "stock": "A22C002",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3898a2a78351.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e-class/2020-mercedes-benz-e-class-id38699026",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e-class/2020-mercedes-benz-e-class-id38699026?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:23:17",
-      "odometer_km": 86916,
+      "name": "CLS53 4MATIC+ Coupe2022 Mercedes-Benz",
+      "vin": "W1K2J6BBXNA106213",
+      "stock": "MB31306",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/57db587b3195.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cls53/2022-mercedes-benz-cls53-id39375316",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/cls53/2022-mercedes-benz-cls53-id39375316?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:38",
+      "odometer_km": 55683,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7198,19 +7077,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e350/2020-mercedes-benz-e350-id39246577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:23:34",
       "odometer_km": 134700,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "E350 4MATIC Sedan2021 Mercedes-Benz",
-      "vin": "W1KZF8EB3MA962345",
-      "stock": "2652660",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/de12a3a8c1d3.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e350/2021-mercedes-benz-e350-id38656876",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e350/2021-mercedes-benz-e350-id38656876?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:23:51",
-      "odometer_km": 76500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7255,19 +7121,6 @@
       "province": "BC"
     },
     {
-      "name": "E400 4MATIC Wagon2017 Mercedes-Benz",
-      "vin": "WDDZH6GB1HA148941",
-      "stock": "7T6801A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/4cdca14e8b45.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e400/2017-mercedes-benz-e400-id39314846",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e400/2017-mercedes-benz-e400-id39314846?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:24:39",
-      "odometer_km": 89738,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "E43 AMG 4MATIC Sedan2018 Mercedes-Benz",
       "vin": "WDDZF6EB7JA315107",
       "stock": "JL12B07",
@@ -7276,19 +7129,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e43-amg/2018-mercedes-benz-e43-amg-id39184666?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:24:55",
       "odometer_km": 105934,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "E450 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KZF5KB8NB084376",
-      "stock": "MB51701",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/506fdd54b9d8.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e450/2022-mercedes-benz-e450-id38147939",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e450/2022-mercedes-benz-e450-id38147939?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:25:11",
-      "odometer_km": 68108,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7341,19 +7181,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e53e/2026-mercedes-benz-e53e-id39200254?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:26:10",
       "odometer_km": 15741,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "E63 S 4MATIC+ Wagon2021 Mercedes-Benz",
-      "vin": "W1KZH8KB3MA943602",
-      "stock": "MB52F00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/7a5013a87a4b.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e63/2021-mercedes-benz-e63-id38915721",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/e63/2021-mercedes-benz-e63-id38915721?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:26:26",
-      "odometer_km": 33008,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7450,6 +7277,19 @@
       "province": "BC"
     },
     {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB7SN140863",
+      "stock": "MB51701",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3c00093a7c35.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39290016",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39290016?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:53",
+      "odometer_km": 13648,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "EQB350 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1N9M1DB5PN032770",
       "stock": "MB61716",
@@ -7515,19 +7355,6 @@
       "province": "BC"
     },
     {
-      "name": "EQS580 4MATIC Edition 1 Sedan2022 Mercedes-Benz",
-      "vin": "W1KCG4EB4NA001038",
-      "stock": "MB71603",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f82a84d04f23.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/eqs580/2022-mercedes-benz-eqs580-id39150657",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/eqs580/2022-mercedes-benz-eqs580-id39150657?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:29:50",
-      "odometer_km": 76000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "EQS580 4MATIC Sedan2022 Mercedes-Benz",
       "vin": "W1KCG4EB2NA012801",
       "stock": "2652725",
@@ -7541,19 +7368,6 @@
       "province": "BC"
     },
     {
-      "name": "EQS580 SUV2023 Mercedes-Benz",
-      "vin": "4JGDM4EB9PA012042",
-      "stock": "MB72F00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3ffcee52ae8b.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/eqs580/2023-mercedes-benz-eqs580-id39080432",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/eqs580/2023-mercedes-benz-eqs580-id39080432?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:30:21",
-      "odometer_km": 25145,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "G550 4x42 SUV2018 Mercedes-Benz",
       "vin": "WDCYC5FH6JX290025",
       "stock": "MB51600",
@@ -7562,19 +7376,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2018-mercedes-benz-g550-id39200184?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:30:37",
       "odometer_km": 33500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G550 SUV2021 Mercedes-Benz",
-      "vin": "W1NYC6BJ8MX423109",
-      "stock": "MB72F00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/bfa50cc1ee86.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:30:51",
-      "odometer_km": 19840,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7595,11 +7396,11 @@
     {
       "name": "G550 SUV2022 Mercedes-Benz",
       "vin": "W1NYC6BJ2NX443261",
-      "stock": "MB51600",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c04b0ec75f91.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id38155594",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id38155594?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:31:07",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/93308ad85cd2.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id39368111",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id39368111?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:41:09",
       "odometer_km": 75985,
       "condition": "used",
       "city": "Vancouver",
@@ -7629,19 +7430,6 @@
       "price": 61998.0,
       "price_currency": "CAD",
       "odometer_km": 147000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2019 Mercedes-Benz",
-      "vin": "WDCYC7HJ1KX321517",
-      "stock": "2664729",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/05c240df70c8.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2019-mercedes-benz-g63-amg-id39109210",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2019-mercedes-benz-g63-amg-id39109210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:31:38",
-      "odometer_km": 99000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7687,19 +7475,6 @@
     },
     {
       "name": "G63 AMG SUV2021 Mercedes-Benz",
-      "vin": "W1NYC7HJ2MX370291",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ac0ee04559d6.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39042750",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39042750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:32:29",
-      "odometer_km": 59953,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2021 Mercedes-Benz",
       "vin": "W1NYC7HJ0MX368216",
       "stock": "6T4038A",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/82355b3aba77.html",
@@ -7712,27 +7487,14 @@
       "province": "BC"
     },
     {
-      "name": "G63 AMG SUV2022 Mercedes-Benz",
-      "vin": "W1NYC7HJ7NX443107",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/870e8866bfa3.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:33:01",
-      "odometer_km": 46150,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2023 Mercedes-Benz",
-      "vin": "W1NYC7HJ3PX489990",
-      "stock": "MB62A00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/7113d3a06a94.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2023-mercedes-benz-g63-amg-id39314820",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2023-mercedes-benz-g63-amg-id39314820?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:33:16",
-      "odometer_km": 6900,
+      "name": "G63 AMG SUV2024 Mercedes-Benz",
+      "vin": "W1NYC7HJ2RX498652",
+      "stock": "2764725",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/379835d99ddd.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:41:25",
+      "odometer_km": 20284,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7746,19 +7508,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2025-mercedes-benz-g63-amg-id39116920?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:33:32",
       "odometer_km": 12173,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2026 Mercedes-Benz",
-      "vin": "W1NWH5AB8TX065070",
-      "stock": "MB12B00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/26b5b4db06f3.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39056163",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39056163?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:33:47",
-      "odometer_km": 5076,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7833,32 +7582,6 @@
       "province": "BC"
     },
     {
-      "name": "GLA250 4MATIC SUV2020 Mercedes-Benz",
-      "vin": "WDCTG4GB0LJ683138",
-      "stock": "2652831",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dd95f3950ab7.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2020-mercedes-benz-gla250-id39136121",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2020-mercedes-benz-gla250-id39136121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:35:26",
-      "odometer_km": 77550,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLA250 4MATIC SUV2021 Mercedes-Benz",
-      "vin": "W1N4N4HB5MJ251637",
-      "stock": "2665540",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/13f1fe78bbbe.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2021-mercedes-benz-gla250-id39222623",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2021-mercedes-benz-gla250-id39222623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:35:41",
-      "odometer_km": 97600,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLA250 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N4N4HB2NJ403326",
       "stock": "MB51701",
@@ -7867,6 +7590,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2022-mercedes-benz-gla250-id38727131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:35:58",
       "odometer_km": 77603,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1N4N4HB5PJ510972",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a7779f16a848.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2023-mercedes-benz-gla250-id39368013",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla250/2023-mercedes-benz-gla250-id39368013?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:41:40",
+      "odometer_km": 18915,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7937,6 +7673,19 @@
       "province": "BC"
     },
     {
+      "name": "GLA45 AMG 4MATIC+ SUV2022 Mercedes-Benz",
+      "vin": "W1N4N5DB2NJ375457",
+      "stock": "MB51701",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/589c9f1edd23.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla45-amg/2022-mercedes-benz-gla45-amg-id39368014",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gla45-amg/2022-mercedes-benz-gla45-amg-id39368014?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:41:54",
+      "odometer_km": 54588,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLB250 4MATIC SUV2021 Mercedes-Benz",
       "vin": "W1N4M4HB0MW085601",
       "stock": "MB71703",
@@ -7958,19 +7707,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39012771?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:37:44",
       "odometer_km": 40180,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N4M4HB9NW260204",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/434e3336e566.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39222617",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39222617?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:38:02",
-      "odometer_km": 17000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8224,19 +7960,6 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N0G8EB1NV394163",
-      "stock": "2665542",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b419c15a503d.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39261130",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39261130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:42:34",
-      "odometer_km": 22619,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB3NV377820",
       "stock": "6M0889A",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f0e615a48607.html",
@@ -8301,6 +8024,19 @@
       "province": "BC"
     },
     {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB2NV368123",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b8448b9a0a5e.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:42:08",
+      "odometer_km": 30927,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1NKM4HB7PF040179",
       "stock": "6T8452A",
@@ -8354,26 +8090,26 @@
     },
     {
       "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1NKM4HB4PF039393",
-      "stock": "MB11816",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/9a645a27a1d1.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39332958",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39332958?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:44:28",
-      "odometer_km": 43078,
+      "vin": "W1NKM4HB8PF035900",
+      "stock": "2665504",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/8d5d2a63fbb8.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375293",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375293?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:42:22",
+      "odometer_km": 33339,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
     },
     {
-      "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "W1NKM4HB7RF064551",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dfd650826f25.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id39150651",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id39150651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:44:42",
-      "odometer_km": 33650,
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EB8PG128678",
+      "stock": "2652109",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/07da0eda3ff5.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375295",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375295?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:42:36",
+      "odometer_km": 45844,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8510,19 +8246,6 @@
     },
     {
       "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1NKM5GB2SF337778",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/9f7ee8be4100.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T20:15:45",
-      "odometer_km": 15500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1NKM5GB9SF419815",
       "stock": "2652223",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/89f278381f90.html",
@@ -8613,6 +8336,18 @@
       "province": "BC"
     },
     {
+      "name": "GLC63 AMG S E Performance 4MATIC+ SUV2026 Mercedes-Benz",
+      "vin": "W1NKM8AB7TF516362",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/365e77fa0d2a.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc63-amg/2026-mercedes-benz-glc63-amg-id39368006",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/glc63-amg/2026-mercedes-benz-glc63-amg-id39368006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:42:52",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLE350 4MATIC SUV2020 Mercedes-Benz",
       "vin": "4JGFB4KB8LA083228",
       "stock": "MB51701",
@@ -8626,19 +8361,6 @@
       "province": "BC"
     },
     {
-      "name": "GLE350 4MATIC SUV2020 Mercedes-Benz",
-      "vin": "4JGFB4KB7LA040421",
-      "stock": "6T3199A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ecb9647f6f17.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2020-mercedes-benz-gle350-id39158248",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2020-mercedes-benz-gle350-id39158248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:49:40",
-      "odometer_km": 75041,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLE350 4MATIC SUV2021 Mercedes-Benz",
       "vin": "4JGFB4KB2MA475087",
       "stock": "MB11815",
@@ -8647,19 +8369,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2021-mercedes-benz-gle350-id39281985?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:49:54",
       "odometer_km": 60852,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE350 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "4JGFB4KB3NA810245",
-      "stock": "2652557",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/35c2674d1908.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39140526",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39140526?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:50:10",
-      "odometer_km": 67984,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8822,19 +8531,6 @@
     },
     {
       "name": "GLE350d 4MATIC2016 Mercedes-Benz",
-      "vin": "4JGDA2EB0GA793322",
-      "stock": "H316035",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/588de94d9bd5.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:53:02",
-      "odometer_km": 74913,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE350d 4MATIC2016 Mercedes-Benz",
       "vin": "4JGDA2EB5GA808588",
       "stock": "2652135",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0ebbbba36189.html",
@@ -8887,13 +8583,13 @@
     },
     {
       "name": "GLE43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "4JGDA6EB3JB115480",
-      "stock": "6T7921A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c51c9f326ce8.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:54:05",
-      "odometer_km": 74164,
+      "vin": "4JGDA6EB9JB042499",
+      "stock": "2651959",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/271e114107f0.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:43:08",
+      "odometer_km": 81500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8965,6 +8661,19 @@
     },
     {
       "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "4JGFB5KB7PA954695",
+      "stock": "2652922",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3daf60854ef9.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39229078",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39229078?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:43:23",
+      "odometer_km": 36474,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
       "vin": "4JGFB5KB8PA963860",
       "stock": "MB31305",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/819ab4528d26.html",
@@ -8998,45 +8707,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39281966?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:56:10",
       "odometer_km": 71694,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV - Local, 1 owner, no major accidents2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB261563",
-      "stock": "LR26225",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/36f46befb1ac.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:56:27",
-      "odometer_km": 41410,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB057166",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/101b16ee21ee.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:56:42",
-      "odometer_km": 55722,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KBXRB136648",
-      "stock": "2665694",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0aae5e8d118e.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:56:57",
-      "odometer_km": 18408,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9081,6 +8751,19 @@
       "province": "BC"
     },
     {
+      "name": "GLE450 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "4JGFB5KB1SB332922",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/deac0e69f299.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39375294",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39375294?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:43:36",
+      "odometer_km": 13481,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLE450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB5KB6TB532471",
       "stock": "MB61716",
@@ -9102,19 +8785,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2024-mercedes-benz-gle450e-id39131960?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:57:56",
       "odometer_km": 64222,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4GB2TB527576",
-      "stock": "2652925",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ad8bc2c89fa0.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2026-mercedes-benz-gle450e-id38999926",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2026-mercedes-benz-gle450e-id38999926?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T18:58:13",
-      "odometer_km": 2400,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9289,19 +8959,6 @@
       "province": "BC"
     },
     {
-      "name": "GLS450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFF5KE7RB169606",
-      "stock": "2651322",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/9dfb4293a011.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id39140472",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id39140472?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:01:08",
-      "odometer_km": 46650,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Pre-Owned Vehicles",
       "vin": "4JGFB4FB1TB561414",
       "stock": "MB71303",
@@ -9355,19 +9012,6 @@
       "province": "BC"
     },
     {
-      "name": "Metris Passenger Van2021 Mercedes-Benz",
-      "vin": "W1WV0FEY6M3924748",
-      "stock": "MB61316",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/1c73d4161cd1.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/metris-passenger-van/2021-mercedes-benz-metris-passenger-van-id39325599",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/metris-passenger-van/2021-mercedes-benz-metris-passenger-van-id39325599?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:02:14",
-      "odometer_km": 27642,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "ML350 4MATIC2010 Mercedes-Benz",
       "vin": "4JGBB8GB6AA582170",
       "stock": "2665118",
@@ -9378,34 +9022,6 @@
       "price": 13995.0,
       "price_currency": "CAD",
       "odometer_km": 95732,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ML400 4MATIC2015 Mercedes-Benz",
-      "vin": "4JGDA5GB9FA480508",
-      "stock": "6B0630A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/6abc58fc6453.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/ml400/2015-mercedes-benz-ml400-id39108570",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/ml400/2015-mercedes-benz-ml400-id39108570?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:02:46",
-      "price": 14448.0,
-      "price_currency": "CAD",
-      "odometer_km": 193062,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "S450 4MATIC Sedan2020 Mercedes-Benz",
-      "vin": "WDDUF6EB7LA519953",
-      "stock": "MB71602",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d2c158b85465.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/s450/2020-mercedes-benz-s450-id39274821",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/s450/2020-mercedes-benz-s450-id39274821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:03:01",
-      "odometer_km": 38000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9517,45 +9133,6 @@
       "province": "BC"
     },
     {
-      "name": "Sprinter 2500 Cargo 1442021 Mercedes-Benz",
-      "vin": "W1Y4DBHY5MP346873",
-      "stock": "MB31705",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/4e31a6e47004.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144/2021-mercedes-benz-sprinter-2500-cargo-144-id39340948",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144/2021-mercedes-benz-sprinter-2500-cargo-144-id39340948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:05:37",
-      "odometer_km": 66495,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter 2500 Crew Van 1702021 Mercedes-Benz",
-      "vin": "W1W4DCHY1MP348716",
-      "stock": "MB31705",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/bd767bb4d55c.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-crew-van-170/2021-mercedes-benz-sprinter-2500-crew-van-170-id39164110",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-crew-van-170/2021-mercedes-benz-sprinter-2500-crew-van-170-id39164110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:04:40",
-      "odometer_km": 83929,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
-      "vin": "W1Y4KBHY3RP612744",
-      "stock": "2665870",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/156c3093e244.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:04:58",
-      "odometer_km": 85789,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
       "vin": "W1Y4KBHY4RP673603",
       "stock": "2665900",
@@ -9582,6 +9159,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 170 (C)2024 Mercedes-Benz",
+      "vin": "W1Y4KCHY1RP656571",
+      "stock": "LBO6565",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ad94686b387d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39368068",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39368068?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:43:50",
+      "odometer_km": 74709,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
       "vin": "W1Y40CHY7NT105181",
       "stock": "25V6365",
@@ -9590,19 +9180,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39056130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:05:45",
       "odometer_km": 152000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
-      "vin": "W1Y40CHY8NT095261",
-      "stock": "MB31305",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f0953613dbe8.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:06:02",
-      "odometer_km": 72423,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9629,19 +9206,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mini/cooper-convertible/2022-mini-cooper-convertible-id39326950?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:06:11",
       "odometer_km": 43033,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Countryman Cooper S ALL42026 MINI",
-      "vin": "WMZ23GA05T7U29850",
-      "stock": "H315037",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c4a8dfdb1753.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mini/countryman/2026-mini-countryman-id39042627",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/mini/countryman/2026-mini-countryman-id39042627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:06:34",
-      "odometer_km": 25722,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9764,18 +9328,6 @@
       "province": "BC"
     },
     {
-      "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
-      "vin": "JN1DF0BB3RM740097",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/17a12ab6ce32.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:07:14",
-      "odometer_km": 41174,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Frontier King Cab 4x4 S2022 Nissan",
       "vin": "1N6ED1CM1NN613105",
       "stock": "27041A",
@@ -9789,6 +9341,19 @@
       "province": "BC"
     },
     {
+      "name": "Frontier Crew Cab PRO-4X 4x4 at2023 Nissan",
+      "vin": "1N6ED1EK7PN612832",
+      "stock": "N214036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/725a74f47bc1.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/frontier/2023-nissan-frontier-id39375292",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/frontier/2023-nissan-frontier-id39375292?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:44:05",
+      "odometer_km": 69014,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Juke SV AWD CVT2017 Nissan",
       "vin": "JN8AF5MVXHT752633",
       "stock": "H261228",
@@ -9797,6 +9362,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/juke/2017-nissan-juke-id39163882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:07:46",
       "odometer_km": 98056,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks SR2019 Nissan",
+      "vin": "3N1CP5CU5KL496457",
+      "stock": "A22E003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/5c0a5ef506be.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/kicks/2019-nissan-kicks-id39354823",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/kicks/2019-nissan-kicks-id39354823?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:44:19",
+      "odometer_km": 58891,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9849,19 +9427,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:08:52",
       "odometer_km": 43744,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Kicks S FWD2024 Nissan",
-      "vin": "3N1CP5BV8RL555926",
-      "stock": "N212035",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3c871aa94716.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39260690",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39260690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:09:06",
-      "odometer_km": 18830,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10143,14 +9708,14 @@
       "province": "BC"
     },
     {
-      "name": "Rogue Platinum CVT2021 Nissan",
-      "vin": "JN8AT3DDXMW315731",
-      "stock": "26447A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/5fbbdb551bd1.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39192210",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39192210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:12:54",
-      "odometer_km": 37980,
+      "name": "Rogue Platinum CVT (2)2021 Nissan",
+      "vin": "JN8AT3DD9MW312853",
+      "stock": "26H991A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/94d38932bfb5.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id38974158",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id38974158?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:44:33",
+      "odometer_km": 175600,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10338,19 +9903,6 @@
       "province": "BC"
     },
     {
-      "name": "Sentra SV CVT2024 Nissan",
-      "vin": "3N1AB8CV5RY346877",
-      "stock": "N212034",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/187c469e519a.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:15:49",
-      "odometer_km": 58343,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sentra SR CVT2025 Nissan",
       "vin": "3N1AB8DV8SY297114",
       "stock": "H126185",
@@ -10437,6 +9989,21 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/polestar/polestar-1/2021-polestar-polestar-1-id38508770?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:16:53",
       "odometer_km": 8134,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "911 Carrera 4 Turbo Coupe2003 Porsche",
+      "vin": "WP0AB29963S686338",
+      "stock": "2652737",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/2113278b77e5.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/porsche/911/2003-porsche-911-id39368061",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/porsche/911/2003-porsche-911-id39368061?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:44:47",
+      "price": 110188.0,
+      "price_currency": "CAD",
+      "odometer_km": 124632,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10546,19 +10113,6 @@
       "province": "BC"
     },
     {
-      "name": "Cayenne S AWD2025 Porsche",
-      "vin": "WP1AL2AY8SDA19658",
-      "stock": "2652930",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/99b1a767e8ba.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/porsche/cayenne/2025-porsche-cayenne-id39102213",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/porsche/cayenne/2025-porsche-cayenne-id39102213?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:12:41",
-      "odometer_km": 7889,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Macan S2018 Porsche",
       "vin": "WP1AB2A51JLB35412",
       "stock": "LR26163",
@@ -10637,6 +10191,19 @@
       "province": "BC"
     },
     {
+      "name": "Macan S AWD w/Premium Plus Package2025 Porsche",
+      "vin": "WP1AG2A59SLB40232",
+      "stock": "A22F004",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/42188911d769.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/porsche/macan/2025-porsche-macan-id39367926",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/porsche/macan/2025-porsche-macan-id39367926?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:45:05",
+      "odometer_km": 35165,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Panamera 42020 Porsche",
       "vin": "WP0AA2A72LL100337",
       "stock": "MB61215",
@@ -10689,19 +10256,6 @@
       "province": "BC"
     },
     {
-      "name": "1500 Classic Warlock2022 Ram",
-      "vin": "1C6RR7LT5NS243589",
-      "stock": "A113013",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/aec3dbae8480.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/1500-classic/2022-ram-1500-classic-id39340883",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/1500-classic/2022-ram-1500-classic-id39340883?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:20:10",
-      "odometer_km": 128761,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "1500 Limited2023 Ram",
       "vin": "1C6SRFHT7PN691709",
       "stock": "S12E000",
@@ -10728,14 +10282,14 @@
       "province": "BC"
     },
     {
-      "name": "2500 Big Horn 4x4 Crew Cab 6'4 Box2024 Ram",
-      "vin": "3C6UR5DL0RG408474",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0d66c1948d85.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:13:46",
-      "odometer_km": 31792,
+      "name": "1500 Rebel 4x4 Crew Cab 5'7 Box2024 Ram",
+      "vin": "1C6SRFLT1RN114555",
+      "stock": "26B9080",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/7638937e4f47.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/1500/2024-ram-1500-id39375319",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/1500/2024-ram-1500-id39375319?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:45:21",
+      "odometer_km": 22109,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10754,19 +10308,6 @@
       "province": "BC"
     },
     {
-      "name": "ProMaster Cargo Van Tradesman 2500 High Roof 136 WB w/Pass Seat2025 Ram",
-      "vin": "3C6LRVCG0SE540653",
-      "stock": "MB31505",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/454329c7cbe1.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/promaster-cargo-van/2025-ram-promaster-cargo-van-id39171073",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/promaster-cargo-van/2025-ram-promaster-cargo-van-id39171073?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:14:16",
-      "odometer_km": 13154,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "RAM 1500 Classic Crew Cab 4x4 (DS) ST2021 Ram",
       "vin": "3C6RR7KT9MG536225",
       "stock": "A113013",
@@ -10780,6 +10321,19 @@
       "province": "BC"
     },
     {
+      "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2022 Ram",
+      "vin": "1C6RR7LT5NS243589",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/27408aaabf3a.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/ram-1500-classic-crew-cab-4x4-(ds)/2022-ram-ram-1500-classic-crew-cab-4x4-(ds)-id39340883",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/ram-1500-classic-crew-cab-4x4-(ds)/2022-ram-ram-1500-classic-crew-cab-4x4-(ds)-id39340883?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:45:37",
+      "odometer_km": 128761,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "RAM 1500 Crew Cab 4x2 (DT) Sport LWB2021 Ram",
       "vin": "1C6SRFVT2MN665129",
       "stock": "A260122",
@@ -10788,6 +10342,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/ram-1500-crew-cab-4x2-(dt)/2021-ram-ram-1500-crew-cab-4x2-(dt)-id39222574?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:21:14",
       "odometer_km": 130537,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RAM 1500 Crew Cab 4x4 (DT) Rebel SWB2022 Ram",
+      "vin": "1C6SRFLT5NN472994",
+      "stock": "LR26143",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/94649257af7f.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/ram-1500-crew-cab-4x4-(dt)/2022-ram-ram-1500-crew-cab-4x4-(dt)-id39230504",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/ram/ram-1500-crew-cab-4x4-(dt)/2022-ram-ram-1500-crew-cab-4x4-(dt)-id39230504?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:46:14",
+      "odometer_km": 56028,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10886,6 +10453,19 @@
       "province": "BC"
     },
     {
+      "name": "Ascent Premier2023 Subaru",
+      "vin": "4S4WMAWD1P3456883",
+      "stock": "MB52F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/1a1106eecf7d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/ascent/2023-subaru-ascent-id39332892",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/ascent/2023-subaru-ascent-id39332892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:46:28",
+      "odometer_km": 14836,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Ascent Onyx2024 Subaru",
       "vin": "4S4WMAHD4R3408066",
       "stock": "S261020",
@@ -10894,6 +10474,32 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/ascent/2024-subaru-ascent-id39207356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:14:33",
       "odometer_km": 48298,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "BRZ Sport-Tech at2016 Subaru",
+      "vin": "JF1ZCAC1XG8602074",
+      "stock": "S113023",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/5bbb4b242845.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/brz/2016-subaru-brz-id39368070",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/brz/2016-subaru-brz-id39368070?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:46:45",
+      "odometer_km": 47148,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Touring Pkg CVT2017 Subaru",
+      "vin": "JF2GPABC4HH261458",
+      "stock": "H126193",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b49de49284ab.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:47:00",
+      "odometer_km": 163800,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10939,32 +10545,6 @@
     },
     {
       "name": "Crosstrek Wilderness CVT2024 Subaru",
-      "vin": "4S4GUHU66R3777418",
-      "stock": "S12C002",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/9cd9a4e81a61.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38599309",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38599309?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:14:51",
-      "odometer_km": 5243,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC1RH265188",
-      "stock": "S260772",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/389686cb2352.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:15:06",
-      "odometer_km": 62357,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Wilderness CVT2024 Subaru",
       "vin": "4S4GUHU61R3816013",
       "stock": "S12F000",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/56bf22c2b5d1.html",
@@ -10972,19 +10552,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38706709?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:15:22",
       "odometer_km": 20634,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC7RH245284",
-      "stock": "S260872",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/971ef42f37f0.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:15:37",
-      "odometer_km": 40322,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11055,19 +10622,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Touring CVT2024 Subaru",
-      "vin": "JF2GUADC3RH859001",
-      "stock": "S113022",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/8c3ad2cca202.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39056113",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39056113?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:17:12",
-      "odometer_km": 50803,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Convenience CVT2024 Subaru",
       "vin": "JF2GUABCXR8305070",
       "stock": "S260741",
@@ -11107,19 +10661,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Onyx CVT2024 Subaru",
-      "vin": "JF2GUHFC3RH866164",
-      "stock": "S261106",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b969a7a2d69c.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39098843",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39098843?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:18:14",
-      "odometer_km": 45639,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Touring CVT2024 Subaru",
       "vin": "JF2GUADC6R8270508",
       "stock": "S113022",
@@ -11128,19 +10669,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39101561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:24:04",
       "odometer_km": 37265,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Touring CVT2024 Subaru",
-      "vin": "JF2GUADC2R8900136",
-      "stock": "S117006",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0cee9664e15f.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39136136",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39136136?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:18:28",
-      "odometer_km": 7200,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11219,19 +10747,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39290067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:19:38",
       "odometer_km": 23543,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Onyx CVT2025 Subaru",
-      "vin": "JF2GUHFC1S8327418",
-      "stock": "S113023",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a5d7d0195a1c.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2025-subaru-crosstrek-id39222711",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2025-subaru-crosstrek-id39222711?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:19:55",
-      "odometer_km": 3832,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11505,19 +11020,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39207358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:25:22",
       "odometer_km": 15156,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Touring CVT2026 Subaru",
-      "vin": "JF2GUHDC7T8233810",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/35ad2741462f.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:25:38",
-      "odometer_km": 24785,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11994,19 +11496,6 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC6TH462078",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/5f7a32fbb0fa.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:34:02",
-      "odometer_km": 4229,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC9TH462656",
       "stock": "S115017",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ae518db2b77a.html",
@@ -12071,19 +11560,6 @@
       "province": "BC"
     },
     {
-      "name": "Impreza RS AWD2024 Subaru",
-      "vin": "JF1GUHJC1R8865204",
-      "stock": "S117006",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/bfd164dce7af.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/impreza/2024-subaru-impreza-id39184699",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/impreza/2024-subaru-impreza-id39184699?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:35:17",
-      "odometer_km": 15961,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Impreza Touring CVT2026 Subaru",
       "vin": "JF1GUAFC3T8215328",
       "stock": "S115014",
@@ -12118,19 +11594,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/impreza/2026-subaru-impreza-id39164065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:36:04",
       "odometer_km": 16228,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Legacy GT CVT2024 Subaru",
-      "vin": "4S3BWHH66R3005441",
-      "stock": "S260859",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0571eae0b26a.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:36:18",
-      "odometer_km": 51914,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12333,19 +11796,6 @@
       "province": "BC"
     },
     {
-      "name": "WRX Sport2024 Subaru",
-      "vin": "JF1VBAH64R9812382",
-      "stock": "G116006",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/6866e2906b97.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:37:45",
-      "odometer_km": 20176,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "WRX Sport 6MT2024 Subaru",
       "vin": "JF1VBAH69R9812331",
       "stock": "A260213",
@@ -12424,14 +11874,14 @@
       "province": "BC"
     },
     {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB1SF922604",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f769a2bb9096.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:38:33",
-      "odometer_km": 10092,
+      "name": "Model 32022 Tesla",
+      "vin": "5YJ3E1EA6NF344978",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d3b9d03cea4e.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39368009",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39368009?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:47:17",
+      "odometer_km": 27450,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12450,14 +11900,14 @@
       "province": "BC"
     },
     {
-      "name": "Model 3 Performance AWD2025 Tesla",
-      "vin": "5YJ3E1ET0SF950063",
-      "stock": "A22F004",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/74e4f4d24f12.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39314702",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39314702?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:39:08",
-      "odometer_km": 18399,
+      "name": "Model S 100D2017 Tesla",
+      "vin": "5YJSA1E28HF198202",
+      "stock": "L26651A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/2643a2a600ef.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-s/2017-tesla-model-s-id39281910",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-s/2017-tesla-model-s-id39281910?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:47:32",
+      "odometer_km": 116611,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12515,6 +11965,32 @@
       "province": "BC"
     },
     {
+      "name": "Model Y Performance2021 Tesla",
+      "vin": "5YJYGDEF4MF202124",
+      "stock": "2664993",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/8d2c7aacf505.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39368052",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39368052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:47:47",
+      "odometer_km": 96250,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Model Y Performance2021 Tesla",
+      "vin": "5YJYGDEF1MF300365",
+      "stock": "A12F000",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/9c7a0cfb498a.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39375247",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39375247?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:48:02",
+      "odometer_km": 47251,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Model Y Performance2022 Tesla",
       "vin": "7SAYGDEF1NF533540",
       "stock": "H27086B",
@@ -12554,6 +12030,19 @@
       "province": "BC"
     },
     {
+      "name": "4Runner2022 Toyota",
+      "vin": "JTENU5JR0N5992635",
+      "stock": "A12C017",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/8b2470754d10.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/4runner/2022-toyota-4runner-id39367990",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/4runner/2022-toyota-4runner-id39367990?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:48:16",
+      "odometer_km": 86277,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "4Runner2025 Toyota",
       "vin": "JTEVA5BR7S5054778",
       "stock": "A12C017",
@@ -12562,32 +12051,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/4runner/2025-toyota-4runner-id39332852?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:39:37",
       "odometer_km": 9750,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Camry 4-Door Sedan LE 8A2020 Toyota",
-      "vin": "4T1G11AK0LU989315",
-      "stock": "2652817",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/586baebf9efb.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/camry/2020-toyota-camry-id39281927",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/camry/2020-toyota-camry-id39281927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:31:00",
-      "odometer_km": 173690,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Camry SE2024 Toyota",
-      "vin": "4T1G11AK6RU241032",
-      "stock": "H116985",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/71001792f334.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:39:52",
-      "odometer_km": 41652,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12712,6 +12175,19 @@
       "province": "BC"
     },
     {
+      "name": "Corolla SE CVT2021 Toyota",
+      "vin": "5YFB4MBE5MP083711",
+      "stock": "26H1092",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a985b71dec92.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/corolla/2021-toyota-corolla-id39108471",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/corolla/2021-toyota-corolla-id39108471?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:48:32",
+      "odometer_km": 88495,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Corolla LE CVT2022 Toyota",
       "vin": "5YFBPMBE2NP277640",
       "stock": "6B4149A",
@@ -12746,19 +12222,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39108527?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:33:37",
       "odometer_km": 50204,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2024 Toyota",
-      "vin": "5TDKBRCH0RS140505",
-      "stock": "MB61216",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/63eddeea3366.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:40:40",
-      "odometer_km": 72419,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12859,19 +12322,6 @@
       "province": "BC"
     },
     {
-      "name": "Prius Plug-in Hybrid SE2024 Toyota",
-      "vin": "JTDACACU7R3013551",
-      "stock": "H22C000",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/2d42fab4b4c0.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39184515",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39184515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:41:43",
-      "odometer_km": 51539,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Prius Prime SE2023 Toyota",
       "vin": "JTDACACUXP3009426",
       "stock": "2665391",
@@ -12880,19 +12330,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/prius-prime/2023-toyota-prius-prime-id39274862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:34:52",
       "odometer_km": 84801,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Prius Prime XSE2024 Toyota",
-      "vin": "JTDACACUXR3030506",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/1c688385a2a0.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:41:59",
-      "odometer_km": 48154,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12982,19 +12419,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/sequoia/2021-toyota-sequoia-id39108568?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:35:22",
       "odometer_km": 70175,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sienna Hybrid Sienna XSE AWD 7-Pass2025 Toyota",
-      "vin": "5TDGSKFC3SS214177",
-      "stock": "H12E000",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/ebdb72cf8abf.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:43:32",
-      "odometer_km": 19500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13130,6 +12554,19 @@
       "province": "BC"
     },
     {
+      "name": "Tundra 4X4 Tundra CrewMax Platinum2022 Toyota",
+      "vin": "5TFMA5DB5NX046574",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f4cd0ae1baae.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/tundra-4x4/2022-toyota-tundra-4x4-id39367987",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/tundra-4x4/2022-toyota-tundra-4x4-id39367987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:48:47",
+      "odometer_km": 97109,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Tundra Hybrid CrewMax Limited2024 Toyota",
       "vin": "5TFWC5EC1RX005617",
       "stock": "MB52F00",
@@ -13143,14 +12580,14 @@
       "province": "BC"
     },
     {
-      "name": "Tundra 4X4 Double Cab Limited TRD Off Road 6.5-ft Bed2024 Toyota",
-      "vin": "5TFJA5DA0RX143875",
-      "stock": "A216019",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/dd5cbee2f4d4.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:45:53",
-      "odometer_km": 47339,
+      "name": "Tundra Hybrid CrewMax Limited2025 Toyota",
+      "vin": "5TFWC5DB0SX094465",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b929944f323d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/tundra-hybrid/2025-toyota-tundra-hybrid-id39375261",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/toyota/tundra-hybrid/2025-toyota-tundra-hybrid-id39375261?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:49:02",
+      "odometer_km": 31400,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13273,32 +12710,6 @@
       "province": "BC"
     },
     {
-      "name": "Jetta Comfortline w/Sport Package2025 Volkswagen",
-      "vin": "3VWSX7BU8SM089987",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/bf032252c5dc.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:46:58",
-      "odometer_km": 29017,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Taos Comfortline Black Edition2025 Volkswagen",
-      "vin": "3VV2C7B28SM042246",
-      "stock": "G115005",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/d474bc5acbfc.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:47:14",
-      "odometer_km": 37364,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Tiguan Highline 2.0T 4M2021 Volkswagen",
       "vin": "3VV4B7AXXMM055463",
       "stock": "2652644",
@@ -13359,19 +12770,6 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volvo/xc40/2022-volvo-xc40-id39340949?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:38:09",
       "odometer_km": 54216,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "XC60 B5 AWD Momentum2022 Volvo",
-      "vin": "LYVL12RK1NB933314",
-      "stock": "L25579A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f01d2a0ff86c.html",
-      "source_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volvo/xc60/2022-volvo-xc60-id39267897",
-      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/used-inventory/volvo/xc60/2022-volvo-xc60-id39267897?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T16:38:25",
-      "odometer_km": 36549,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
