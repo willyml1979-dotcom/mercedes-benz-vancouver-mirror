@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-10-18T20:12:07",
-  "vehicle_count": 2520,
+  "generated_at": "2026-10-18T20:45:19",
+  "vehicle_count": 2531,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12855,7 +12855,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/6e43fd15e17e.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2026-mercedes-benz-amg-gt-id39164101",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2026-mercedes-benz-amg-gt-id39164101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:49:07",
+      "last_verified": "2026-10-18T20:43:24",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12879,7 +12879,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/b2bd3c7f1627.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39158201",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39158201?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:49:24",
+      "last_verified": "2026-10-18T20:43:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12891,7 +12891,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/7898ba670e44.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39164105",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39164105?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:49:39",
+      "last_verified": "2026-10-18T20:43:56",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12903,7 +12903,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/cfebadf94911.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39237607",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39237607?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:49:56",
+      "last_verified": "2026-10-18T20:44:11",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12915,7 +12915,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/ba46b566440f.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id36658111",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id36658111?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:50:11",
+      "last_verified": "2026-10-18T20:44:28",
       "odometer_km": 1300,
       "condition": "new",
       "city": "Vancouver",
@@ -12928,21 +12928,22 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/9cafac15d50e.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id36658129",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id36658129?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:50:28",
+      "last_verified": "2026-10-18T20:44:45",
       "odometer_km": 3100,
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
     },
     {
-      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB6TR306268",
-      "stock": "2651338",
+      "name": "New Vehicles",
+      "vin": "W1KMJ6CB3VF136552",
+      "stock": "2765829",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/dbb65f1908ef.html",
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37362215",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37362215?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:50:43",
-      "odometer_km": 2100,
+      "last_verified": "2026-10-18T20:45:06",
+      "price": 99260.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13637,6 +13638,18 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39200236",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39200236?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T17:22:30",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB5TR354769",
+      "stock": "2665838",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/3a254f4c452d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229067",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:38:03",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -17406,6 +17419,18 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ889845",
+      "stock": "2665428",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/aa60f9044b9f.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39026420",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39026420?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:38:20",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HBXTJ889882",
       "stock": "2665427",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/8972bd2f8202.html",
@@ -19574,6 +19599,19 @@
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id37945232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T18:31:32",
       "odometer_km": 5415,
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB2TF476836",
+      "stock": "6T6836",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/816fa02f1b0b.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id37945259",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id37945259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:38:34",
+      "odometer_km": 4905,
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -26970,6 +27008,18 @@
       "province": "BC"
     },
     {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KE0TB720672",
+      "stock": "2665793",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/049c311f9e3d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39012802",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39012802?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:38:50",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB9TB720678",
       "stock": "2665803",
@@ -27521,6 +27571,18 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289922",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289922?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:54:07",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB2TB718450",
+      "stock": "2665800",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/3f55586ac96d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289933",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:39:03",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -30187,6 +30249,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY8TP863217",
+      "stock": "2650489",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/c4f48a5619db.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38613199",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38613199?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:39:19",
+      "odometer_km": 6442,
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY5TP924903",
       "stock": "26S4903",
@@ -30788,6 +30863,18 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY9TP939310",
+      "stock": "2666003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/d8c1035bf39d.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38945180",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38945180?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:39:34",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY4TP939595",
       "stock": "2665990",
@@ -30836,6 +30923,18 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY9TP939785",
+      "stock": "2666034",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/43fe1f627c5f.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954173",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954173?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:39:48",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY7TP942040",
       "stock": "2666034",
@@ -30848,6 +30947,18 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHYXTP940931",
+      "stock": "2666035",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/4ed17d106342.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954176",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954176?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:40:02",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY1TP939799",
       "stock": "2666045",
@@ -30855,6 +30966,18 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954177",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954177?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T20:50:47",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY0TP939311",
+      "stock": "2666006",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/c40eab215416.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954181",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954181?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:40:17",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -30927,6 +31050,18 @@
       "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39026499",
       "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39026499?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T20:52:19",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY4TP938611",
+      "stock": "26V8611",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/86722f7ad0f5.html",
+      "source_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39026501",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39026501?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:40:33",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
