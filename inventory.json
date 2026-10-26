@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-10-25T23:26:09",
-  "vehicle_count": 2603,
+  "generated_at": "2026-10-26T06:38:58",
+  "vehicle_count": 2602,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -226,6 +226,12 @@
       "condition": "used",
       "price": 16005.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/414bddc29c9e.html",
+      "condition": "used"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -477,12 +483,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/0184ab5d8532.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/676dd39e1c6c.html",
       "condition": "used"
     },
     {
@@ -2394,12 +2394,6 @@
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/14c25c4966d2.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
       "vin": "SAL1L9FU1RA419064",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/746536aea6c5.html",
       "condition": "used"
@@ -3132,8 +3126,8 @@
     },
     {
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1N9M0KB0SN146164",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/1d05dab619eb.html",
+      "vin": "W1N9M0KBXSN139836",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/2a16923c11cd.html",
       "condition": "used"
     },
     {
@@ -4111,6 +4105,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c34d2f692ff0.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/6bde9696326c.html",
@@ -4276,12 +4276,6 @@
       "name": "Pathfinder SV V6 4x4 at2023 Nissan",
       "vin": "5N1DR3BE4PC247141",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f31f44f20ac7.html",
-      "condition": "used"
-    },
-    {
-      "name": "Pathfinder S V62023 Nissan",
-      "vin": "5N1DR3AC8PC224199",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3a680365aa52.html",
       "condition": "used"
     },
     {
