@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-10-26T06:38:58",
-  "vehicle_count": 2602,
+  "generated_at": "2026-10-26T08:31:01",
+  "vehicle_count": 2610,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -5958,6 +5958,12 @@
     },
     {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HBXTR311909",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/70ac990d4049.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB1TR308980",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/90c1046655ce.html",
       "condition": "new"
@@ -7075,6 +7081,12 @@
       "condition": "new"
     },
     {
+      "name": "E-Class E 350 4MATIC Sedan2025 Mercedes-Benz",
+      "vin": "W1KLF4HB6SA149671",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/830e9e031a03.html",
+      "condition": "new"
+    },
+    {
       "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KLF4HBXTA196834",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/63ceccb088c0.html",
@@ -8000,6 +8012,12 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB8TJ886625",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/18b098d7dcf6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB6TJ870844",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/a5a8d1dfd966.html",
       "condition": "new"
@@ -8224,12 +8242,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB8TJ877455",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/4fa7dc0f1297.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ886604",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/53630bb6cf51.html",
       "condition": "new"
     },
     {
@@ -8756,6 +8768,12 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ875111",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/6be4549e5e99.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ893422",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/fec5f26bbfb9.html",
       "condition": "new"
@@ -9160,6 +9178,12 @@
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB7TW487033",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/0ead23aef27a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB7TW484777",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/f480727ab615.html",
       "condition": "new"
     },
     {
@@ -10082,6 +10106,12 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF592176",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/419fb2ef57ed.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HBXTF598389",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/a9e86b61ad47.html",
       "condition": "new"
@@ -10126,12 +10156,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB5TF624350",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/6a20917e7782.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HBXTF609410",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/220127cb2300.html",
       "condition": "new"
     },
     {
@@ -10501,6 +10525,12 @@
       "condition": "new"
     },
     {
+      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1NKJ4HB9TF644755",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/791dd15b1b45.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF623843",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/319db2860bb5.html",
@@ -10636,6 +10666,12 @@
       "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM8HB5TF534090",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/ff48800a01f3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB2TF631014",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/ef9af0a5e6eb.html",
       "condition": "new"
     },
     {
@@ -10792,12 +10828,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB3TF627232",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/01b5b0604416.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HBXTF608886",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/69816ee4e0fd.html",
       "condition": "new"
     },
     {
@@ -10972,12 +11002,6 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB9VF647813",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/8f135cb73f68.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB7VF647583",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/b903841ee3c1.html",
       "condition": "new"
     },
     {
@@ -11188,12 +11212,6 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB5VF645508",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/15402890128b.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB5VF654855",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/8efbc57315d2.html",
       "condition": "new"
     },
     {
@@ -12915,9 +12933,9 @@
       "condition": "new"
     },
     {
-      "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "4JGFD6BB3TB688905",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/087e4afdbee5.html",
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB7TB695022",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/1067b0f67ad0.html",
       "condition": "new"
     },
     {
@@ -13044,6 +13062,12 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB8TB698432",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/1a9c1b67989c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB8TB698429",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/6b6b9d1e629a.html",
       "condition": "new"
     },
     {
@@ -13612,6 +13636,12 @@
     },
     {
       "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFF5KE0TB570082",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/abf253c6e5c2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFF5KE5TB572507",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/9634166dc7ba.html",
       "condition": "new"
@@ -13692,6 +13722,12 @@
       "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFF5KE9TB612961",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/fe1d74db785f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFF5KE5TB635301",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/c9908076dc92.html",
       "condition": "new"
     },
     {
@@ -14542,6 +14578,12 @@
     },
     {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY2TP884693",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/2e40b37bc0fe.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY1TP886015",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/47639c7ece70.html",
       "condition": "new"
@@ -15288,6 +15330,12 @@
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY1TP939799",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/555b97a336eb.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY0TP939311",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/c40eab215416.html",
       "condition": "new"
     },
     {
