@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-11-17T07:06:36",
-  "vehicle_count": 2681,
+  "generated_at": "2026-11-17T10:20:28",
+  "vehicle_count": 2682,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -8137,10 +8137,12 @@
       "condition": "new"
     },
     {
-      "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N5BB9TJ818851",
+      "name": "New Vehicles",
+      "vin": "W1KMJ6CB3VF136552",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/bb6f712b0c95.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 99260.0,
+      "price_currency": "CAD"
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
@@ -8173,10 +8175,12 @@
       "condition": "new"
     },
     {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ833215",
+      "name": "New Vehicles",
+      "vin": "W1KMJ6CB3VF136552",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/bf5eaebe5f53.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 99260.0,
+      "price_currency": "CAD"
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
@@ -12238,6 +12242,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB2VF655428",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/312caec11b86.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB3VF648438",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/new/0725161dea4a.html",
       "condition": "new"
     },
     {
