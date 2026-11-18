@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-11-18T03:23:03",
-  "vehicle_count": 2794,
+  "generated_at": "2026-11-18T09:35:34",
+  "vehicle_count": 2793,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2386,12 +2386,6 @@
       "name": "Discovery P360 R-Dynamic HSE2023 Land Rover",
       "vin": "SALRM4EU6P2473200",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a8d781349fcb.html",
-      "condition": "used"
-    },
-    {
-      "name": "New Range Rover P530 SE SWB - Beautiful truck!2023 Land Rover",
-      "vin": "SALKP9E74PA011644",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/74bfbc0db0bb.html",
       "condition": "used"
     },
     {
