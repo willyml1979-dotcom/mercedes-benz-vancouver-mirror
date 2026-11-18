@@ -1,6 +1,6 @@
 # Mercedes Benz Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 2793 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 2805 vehicles.
 
 - Official website: https://www.mercedes-benz-vancouver.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/
