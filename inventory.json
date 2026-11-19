@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Vancouver",
-  "generated_at": "2026-11-18T12:29:06",
-  "vehicle_count": 2805,
+  "generated_at": "2026-11-18T20:14:43",
+  "vehicle_count": 2807,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/a38ea839e066.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/3f7d62678e8e.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/f9de7f9f88c1.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/e8ca1751c352.html",
       "condition": "used"
     },
     {
@@ -2499,12 +2511,6 @@
       "condition": "used"
     },
     {
-      "name": "Range Rover Sport P400 HST2022 Land Rover",
-      "vin": "SALWS2RU3NA200211",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/c51bc03e38f5.html",
-      "condition": "used"
-    },
-    {
       "name": "Range Rover Sport V8 Supercharged Autobiography Dynamic2022 Land Rover",
       "vin": "SALWV2SE8NA244313",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/055125b04259.html",
@@ -3084,6 +3090,12 @@
       "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KAF4HB8PR078621",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/4906267565c3.html",
+      "condition": "used"
+    },
+    {
+      "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
+      "vin": "W1KAF4HB6PR086622",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-vancouver-mirror/used/b923400369dc.html",
       "condition": "used"
     },
     {
